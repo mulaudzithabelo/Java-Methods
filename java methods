@@ -1,0 +1,22 @@
+public class Methods 
+{
+public static void main(String[] args)
+{
+   printMyName();
+   printMyIDNumber();
+}
+
+public static void printMyName()
+{
+System.out.println("HI ANDREW!");	
+}
+
+public static void printMyIDNumber()
+{
+int id_number = 20319556 ;
+{
+	System.out.println("My ID Number is " + id_number);
+
+}
+}
+}
